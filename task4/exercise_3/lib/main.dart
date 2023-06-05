@@ -13,7 +13,7 @@ void main() {
                   Expanded(
                     child: Container(
                       color: Colors.blue,
-                      margin: EdgeInsets.all(10),
+                      margin: const EdgeInsets.all(10),
                     ),
                   ),
                 ],
@@ -25,7 +25,7 @@ void main() {
                   Expanded(
                     child: Container(
                       color: Colors.blue,
-                      margin: EdgeInsets.all(10),
+                      margin: const EdgeInsets.all(10),
                     ),
                   ),
                 ],
