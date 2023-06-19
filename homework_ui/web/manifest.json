@@ -1,11 +1,11 @@
 {
-    "name": "dars_6_12",
-    "short_name": "dars_6_12",
+    "name": "homework_ui",
+    "short_name": "homework_ui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Homework",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
